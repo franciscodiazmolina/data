@@ -20,8 +20,8 @@ Soy un apasionado por los datos y su capacidad para transformar información en 
 - Excel avanzado
 
 ## 🚀 Proyectos Destacados
-- **Expansión de laboratorios farmacéuticos**: Identificación de ubicaciones óptimas para Biogenesys en LATAM, basado en datos de COVID-19, vacunación e infraestructura sanitaria.
-- **AdventureWords**: Desarrollo de un tablero para la toma de desiciones de una tienda deportiva.
+- **[Expansión de laboratorios farmacéuticos](https://github.com/franciscodiazmolina/biogenesys)**: Identificación de ubicaciones óptimas para Biogenesys en LATAM, basado en datos de COVID-19, vacunación e infraestructura sanitaria.
+- **[AdventureWorks](https://github.com/franciscodiazmolina/AdventureWorks)**: Desarrollo de un tablero para la toma de desiciones de una tienda deportiva.
 
 ## 🎓 Formación y Logros
 - Licenciado en Administración - Universidad de Buenos Aires
